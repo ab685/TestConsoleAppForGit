@@ -11,7 +11,7 @@ namespace TestConsoleAppForGit
         static void DoSomeThing()
         {
             
-            Console.WriteLine("This error commit");
+            Console.WriteLine("Hello World! This Development branch");
             Console.ReadLine();
         }
 
