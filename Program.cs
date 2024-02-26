@@ -11,7 +11,7 @@ namespace TestConsoleAppForGit
         static void DoSomeThing()
         {
             
-            Console.WriteLine("Hello World! This Test of stash  Development branch");
+            Console.WriteLine("This is safecode");
             Console.ReadLine();
         }
 
